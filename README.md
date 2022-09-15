@@ -1,4 +1,5 @@
 ### Hi there 👋
+For further information about my experiences and socials, check my <a href="https://github.com/MauroImamura">personal account<a/>.
 
 <!--
 **mauroimamuravcm/mauroimamuravcm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
